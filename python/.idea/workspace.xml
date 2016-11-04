@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34cad7e5-796b-46b8-861f-3c6e0d8e9e46" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../scalaForTheImpatient/Exercise1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../scalaForTheImpatient/exerciseTwo.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$072266da504979042d8d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$072266da504979042d8d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$072266da504979042d8d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$0790c22f3cdcac0185fa$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$0790c22f3cdcac0185fa$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$0790c22f3cdcac0185fa.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$0790c22f3cdcac0185fa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$4276404c5e36564fd1d1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$4276404c5e36564fd1d1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$4276404c5e36564fd1d1.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$4276404c5e36564fd1d1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$66d28bd88d01bf0ae6dd$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$66d28bd88d01bf0ae6dd$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$66d28bd88d01bf0ae6dd.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$66d28bd88d01bf0ae6dd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$766bbaf5463729dfd339$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$766bbaf5463729dfd339$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$766bbaf5463729dfd339.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/project/target/config-classes/$766bbaf5463729dfd339.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$002f6fc28dc2a987eb20$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$002f6fc28dc2a987eb20$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$002f6fc28dc2a987eb20.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$002f6fc28dc2a987eb20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$510566c273ebf7cb764b$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$510566c273ebf7cb764b$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$510566c273ebf7cb764b.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$510566c273ebf7cb764b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$534c2c9a4f4409ad21e1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$534c2c9a4f4409ad21e1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$534c2c9a4f4409ad21e1.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$534c2c9a4f4409ad21e1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$7a0cf1b508aed9ff5f26$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$7a0cf1b508aed9ff5f26$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$7a0cf1b508aed9ff5f26.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$7a0cf1b508aed9ff5f26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$a7cfaaae05ef807125cc$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$a7cfaaae05ef807125cc$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$a7cfaaae05ef807125cc.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$a7cfaaae05ef807125cc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$aa08ba32d026d58a9d4b$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$aa08ba32d026d58a9d4b$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$aa08ba32d026d58a9d4b.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$aa08ba32d026d58a9d4b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$e85b073c7f29e357b0dc$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$e85b073c7f29e357b0dc$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$e85b073c7f29e357b0dc.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$e85b073c7f29e357b0dc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f1670cf1d9a907672eab$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f1670cf1d9a907672eab$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f1670cf1d9a907672eab.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f1670cf1d9a907672eab.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f450ec58f5ef99902ee4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f450ec58f5ef99902ee4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f450ec58f5ef99902ee4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f450ec58f5ef99902ee4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f5fb2f3917982baaf7b7$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f5fb2f3917982baaf7b7$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f5fb2f3917982baaf7b7.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/config-classes/$f5fb2f3917982baaf7b7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$1c915aee9befb7491da0$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$1c915aee9befb7491da0$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$1c915aee9befb7491da0.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$1c915aee9befb7491da0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$3c0247bf5af23f7e4497$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$3c0247bf5af23f7e4497$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$3c0247bf5af23f7e4497.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$3c0247bf5af23f7e4497.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b49ead8798980cbde0dd$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b49ead8798980cbde0dd.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b49ead8798980cbde0dd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b671b6d152bc67367358$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b671b6d152bc67367358$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b671b6d152bc67367358.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$b671b6d152bc67367358.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$bb387a04937cfce79ff5$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$bb387a04937cfce79ff5$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$bb387a04937cfce79ff5.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/project/target/config-classes/$bb387a04937cfce79ff5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0805ed97b0db926d1fcf$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0805ed97b0db926d1fcf$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0805ed97b0db926d1fcf.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0805ed97b0db926d1fcf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0b3fac7f0667ccd7e313$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0b3fac7f0667ccd7e313$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0b3fac7f0667ccd7e313.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0b3fac7f0667ccd7e313.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0f0c71f0cb903bd7101d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0f0c71f0cb903bd7101d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0f0c71f0cb903bd7101d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$0f0c71f0cb903bd7101d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$1ca4781f642a168a8dd4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$1ca4781f642a168a8dd4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$1ca4781f642a168a8dd4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$1ca4781f642a168a8dd4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$3f085aa889cadcf177c7$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$3f085aa889cadcf177c7$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$3f085aa889cadcf177c7.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$3f085aa889cadcf177c7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$5d27f09182646b5c393a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$5d27f09182646b5c393a$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$5d27f09182646b5c393a.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$5d27f09182646b5c393a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$649997d831faf5b02c25$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$649997d831faf5b02c25$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$649997d831faf5b02c25.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$649997d831faf5b02c25.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$782b379168cc990f0acd$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$782b379168cc990f0acd$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$782b379168cc990f0acd.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$782b379168cc990f0acd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$79ecfb02471a6758771d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$79ecfb02471a6758771d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$79ecfb02471a6758771d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$79ecfb02471a6758771d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$91f36d204b694b83fae4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$91f36d204b694b83fae4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$91f36d204b694b83fae4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$91f36d204b694b83fae4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$95e3e96008166ea6f3af$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$95e3e96008166ea6f3af$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$95e3e96008166ea6f3af$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$95e3e96008166ea6f3af.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$95e3e96008166ea6f3af.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e2105813c0334f0f19b6$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e2105813c0334f0f19b6$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e2105813c0334f0f19b6.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e2105813c0334f0f19b6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e8987ac117727c60bb12$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e8987ac117727c60bb12$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e8987ac117727c60bb12.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/config-classes/$e8987ac117727c60bb12.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/scala-2.11/classes/recfun/Main$.class" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/scala-2.11/classes/recfun/Main$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/modules/root.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/scala_compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-compile-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-compile.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-docs.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-optional.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-plugin.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-pom.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-provided.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-runtime.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-scala-tool.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-sources.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-test-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-test.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/resolution-cache/reports/default-example-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/progfun1-example/progfun1-example_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-compile.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-docs.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-optional.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-pom.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-provided.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-sources.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-test.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/resolution-cache/reports/progfun1-example-progfun1-example_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/example/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-compile-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-compile.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-docs.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-optional.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-plugin.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-pom.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-provided.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-scala-tool.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-sources.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-test-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-test.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/resolution-cache/reports/default-recfun-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/src/main/scala/recfun/Main.scala" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/src/main/scala/recfun/Main.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/.history" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/progfun1-recfun/progfun1-recfun_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-compile.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-docs.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-optional.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-pom.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-provided.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-sources.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-test.xml" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/resolution-cache/reports/progfun1-recfun-progfun1-recfun_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/$global/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/../../func_prog_scala/recfun/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../intro_to_ml/intro_to_ml/ud120-projects/datasets_questions/explore_enron_data.py" afterPath="$PROJECT_DIR$/../../intro_to_ml/intro_to_ml/ud120-projects/datasets_questions/explore_enron_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../intro_to_ml/intro_to_ml/ud120-projects/outliers/outlier_removal_regression.py" afterPath="$PROJECT_DIR$/../../intro_to_ml/intro_to_ml/ud120-projects/outliers/outlier_removal_regression.py" />
+    </list>
+    <ignored path="python.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="question_one.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/question_one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/question_!.py" />
+        <option value="$PROJECT_DIR$/question_one.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="23" />
+    <option name="width" value="1256" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34cad7e5-796b-46b8-861f-3c6e0d8e9e46" name="Default" comment="" />
+      <created>1478017003442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478017003442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="23" width="1256" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30948904" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/question_!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
