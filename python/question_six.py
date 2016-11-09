@@ -13,15 +13,17 @@ numbers and the square of the sum.
 """
 from datetime import datetime
 startTime = datetime.now()
-#slow
 
-sum([i for i in range(101)])**2 - sum([i**2 for i in range(101)])
+# slow
+
+print sum([i for i in range(101)])**2 - sum([i**2 for i in range(101)])
 
 print datetime.now() - startTime
 
-#faster
-from datetime import datetime
+# faster
+
 startTime = datetime.now()
+
 
 def sum_n_numbers(n):
     return 0.5 * n * (n+1)
@@ -29,10 +31,6 @@ def sum_n_numbers(n):
 
 def sum_square_numbers(n):
     return (n * (n+1) *  (2*n+1)) * 1/6
-
-
-def diff_square_numbers(n):
-        return 2*n + 1
 
 print sum_n_numbers(100)**2 - sum_square_numbers(100)
 
