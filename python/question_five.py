@@ -15,7 +15,7 @@ def gcd(a,b):
 
     else:
 
-        return gcd(min(a,b),max(a,b) % min(a,b))
+        return gcd(min(a,b), max(a,b) % min(a,b))
 
 def lcm(a,b):
 
@@ -23,5 +23,6 @@ def lcm(a,b):
 
 series = range(1,21)
 
+print reduce(lcm, series)
 
 
