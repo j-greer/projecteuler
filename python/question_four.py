@@ -5,6 +5,10 @@ The largest palindrome made from the product of two 2-digit numbers is 9009 = 91
 Find the largest palindrome made from the product of two 3-digit numbers.
 
 """
+
+from datetime import datetime
+startTime = datetime.now()
+
 from math import sqrt
 
 for n in reversed(range(100,998)): #999 * 999 is 998001 so largest palindrom is 997799
@@ -26,7 +30,7 @@ for n in reversed(range(100,998)): #999 * 999 is 998001 so largest palindrom is 
         else:
             pass
 
-
+print datetime.now() - startTime
 
 
 

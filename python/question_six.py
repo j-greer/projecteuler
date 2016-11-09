@@ -11,12 +11,17 @@ and the square of the sum is 3025 - 385 =
 Find the difference between the sum of the squares of the first one hundred natural
 numbers and the square of the sum.
 """
-
+from datetime import datetime
+startTime = datetime.now()
 #slow
 
 sum([i for i in range(101)])**2 - sum([i**2 for i in range(101)])
 
+print datetime.now() - startTime
+
 #faster
+from datetime import datetime
+startTime = datetime.now()
 
 def sum_n_numbers(n):
     return 0.5 * n * (n+1)
@@ -31,3 +36,4 @@ def diff_square_numbers(n):
 
 print sum_n_numbers(100)**2 - sum_square_numbers(100)
 
+print datetime.now() - startTime
